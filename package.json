@@ -1,0 +1,29 @@
+{
+  "name": "stream-to-kafka-producer",
+  "version": "1.0.0",
+  "description": "Simulate real-time streaming data into kafka producer on given interval",
+  "main": "start-streaming.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmalPerera/stream-to-kafka-producer.git"
+  },
+  "keywords": [
+    "Kafka",
+    "producer",
+    "apache-kafka",
+    "kafka-producer",
+    "node.js",
+    "Streaming",
+    "readfile",
+    "kafka-node"
+  ],
+  "author": "Omal Perera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OmalPerera/stream-to-kafka-producer/issues"
+  },
+  "homepage": "https://github.com/OmalPerera/stream-to-kafka-producer#readme"
+}
