@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/OmalPerera/stream-to-kafka-producer/issues"
   },
-  "homepage": "https://github.com/OmalPerera/stream-to-kafka-producer#readme"
+  "homepage": "https://github.com/OmalPerera/stream-to-kafka-producer#readme",
+  "dependencies": {
+    "kafka-node": "^2.3.0"
+  }
 }
